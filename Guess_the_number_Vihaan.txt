@@ -1,0 +1,6 @@
+Name: Vihaan
+Difficulty: hard
+Number range: 1 - 500
+Number: 312
+Attempts: 3
+Tries left: 6

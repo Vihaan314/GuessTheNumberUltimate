@@ -1,0 +1,6 @@
+Name: Cheese
+Difficulty: easy
+Number range: 1 - 10
+Number: 3
+Attempts: 2
+Tries left: 2
